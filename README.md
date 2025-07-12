@@ -61,10 +61,14 @@ cd Task-IT
 cd backend
 npm install
 # Configure MongoDB URI and JWT secret in .env
+npm install express mongoose dotenv cors jsonwebtoken bcryptjs
+npm install --save-dev nodemon
 npm run dev
 
 cd ../frontend
 npm install
+npm install react react-dom react-router-dom axios
+npm install --save-dev vite
 npm run dev
 ```
 License
