@@ -1,0 +1,12 @@
+.landing-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 140vh;
+  background-color: #323091;
+  background: url('/background3.gif') no-repeat center center fixed;
+}
+h1{
+  color: aliceblue;
+}
