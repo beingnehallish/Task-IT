@@ -8,6 +8,7 @@ Task-IT is a **task management and employee efficiency tracking platform** built
 ## 🌟 **Features**
 
 ✅ **Landing page** with marks the start 
+
 ✅ **Login page** with role based toggle login i.e., Employee or Supervisor 
 
 ✅ User authentication for **employees** and **supervisors** 
