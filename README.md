@@ -39,7 +39,9 @@ SUPERVISOR'S DASHBOARD
 
 EMPLOYEE'S DASHBOARD
 <img width="1919" height="909" alt="Screenshot 2025-07-13 023439" src="https://github.com/user-attachments/assets/1488b168-d483-4e16-9ab3-15faceb86c66" />
+<img width="1919" height="899" alt="Screenshot 2025-07-13 101127" src="https://github.com/user-attachments/assets/3aa39b47-a69f-4192-aa88-5cf856424099" />
 <img width="1919" height="900" alt="Screenshot 2025-07-13 023509" src="https://github.com/user-attachments/assets/a2020956-61d4-4a9e-9660-d9caa0989218" />
+<img width="1919" height="898" alt="Screenshot 2025-07-13 101204" src="https://github.com/user-attachments/assets/70a3e7d1-2340-4055-8fc1-8529d37f380f" />
 <img width="1919" height="900" alt="Screenshot 2025-07-13 023720" src="https://github.com/user-attachments/assets/8d17b68e-a57c-4a87-9671-19e59a318414" />
 
 
