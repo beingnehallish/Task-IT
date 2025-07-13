@@ -24,7 +24,12 @@ Task-IT is a **task management and employee efficiency tracking platform** built
 - Add events/meetings/important dates to Calender with time. Supports Alarm.
 - Socket.IO for real time communication beween teammates
   
+
+https://github.com/user-attachments/assets/6acb26a4-ae29-489d-b61f-0d4d4bb67d72
+
+
 LANDING PAGE
+
 ---<img width="1887" height="902" alt="Screenshot 2025-07-13 025837" src="https://github.com/user-attachments/assets/d2b097dd-d7d0-40f7-86c6-c39fe4613de1" />
 LOGIN PAGE
 <img width="1919" height="899" alt="Screenshot 2025-07-13 025121" src="https://github.com/user-attachments/assets/e31c018d-d179-4583-87d4-411dd2b510fb" />
