@@ -25,9 +25,11 @@ Task-IT is a **task management and employee efficiency tracking platform** built
 - Socket.IO for real time communication beween teammates
   
 LANDING PAGE
+
 https://github.com/user-attachments/assets/6acb26a4-ae29-489d-b61f-0d4d4bb67d72
 
 LOGIN PAGE
+
 https://github.com/user-attachments/assets/3f975435-f2c4-483c-bf92-1b9920ead175
 
 SUPERVISOR'S DASHBOARD
